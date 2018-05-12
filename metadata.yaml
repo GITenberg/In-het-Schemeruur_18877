@@ -1,0 +1,36 @@
+_repo: In-het-Schemeruur_18877
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sluijters, Jan
+    alias: Sluyters, Jan
+    birthdate: 1881
+    deathdate: 1957
+    gutenberg_agent_id: '8316'
+    url: http://www.gutenberg.org/2009/agents/8316
+    wikipedia: http://www.kunstbus.nl/verklaringen/jan+sluyters.html
+covers:
+- cover_type: archival
+  image_path: 18877-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Louwerse, Pieter
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '3977'
+    url: http://www.gutenberg.org/2009/agents/3977
+    wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
+description: ''
+gutenberg_issued: '2006-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18877'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: In het Schemeruur
+url: http://www.gutenberg.org/ebooks/18877
